@@ -103,7 +103,7 @@ nav.links a:hover{
   grid-template-columns:minmax(220px, 320px) minmax(280px, 560px);
   justify-content:center;
 }
-.hero-left{ display:flex; flex-direction:column; align-items:flex-start; }
+.hero-left{ display:flex; flex-direction:column; align-items:center; text-align:center; }
 .hero-photo{ width:100%; margin-bottom:24px; }
 .avatar{
   width:100%;
@@ -124,12 +124,12 @@ nav.links a:hover{
 .pronoun{ font-size:14px; font-style:italic; color:var(--ink-faint); margin-left:8px; }
 .role{ font-size:15.5px; color:var(--ink-soft); margin:0 0 14px; }
 .info-row{
-  display:flex; flex-direction:column; align-items:flex-start;
+  display:flex; flex-direction:column; align-items:center;
   gap:8px; font-size:14px; color:var(--ink-soft); margin-bottom:16px;
 }
 .info-row span{ display:inline-flex; align-items:center; gap:7px; }
 .info-row svg{ color:var(--accent); flex-shrink:0; }
-.social-row{ display:flex; justify-content:flex-start; gap:10px; }
+.social-row{ display:flex; justify-content:center; gap:10px; }
 .social-row a{
   display:inline-flex; align-items:center; justify-content:center;
   width:44px; height:44px; border-radius:50%;
@@ -154,9 +154,6 @@ nav.links a:hover{
 @media (max-width:800px){
   .hero-grid{ grid-template-columns:1fr; gap:32px; }
   .hero-grid--compact{ grid-template-columns:1fr; }
-  .hero-left{ align-items:center; text-align:center; }
-  .info-row{ align-items:center; }
-  .social-row{ justify-content:center; }
 }
 
 /* sections */
