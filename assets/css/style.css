@@ -146,6 +146,7 @@ nav.links a:hover{
 .contact-simple{
   display:flex; flex-direction:column; align-items:center; text-align:center;
 }
+.contact-simple .hero-photo{ width:auto; margin-bottom:24px; }
 .contact-simple .avatar{ margin-bottom:8px; }
 .contact-simple h1{
   font-weight:400; font-size:clamp(26px, 2.6vw, 32px); line-height:1.15; margin:0 0 16px;

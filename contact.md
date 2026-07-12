@@ -2,6 +2,7 @@
 layout: contact
 title: Contact
 full_name: Rafail Giannadakis
+pronouns: he / him
 photo: /images/profile.png
 email: giannadakis.uni@gmail.com
 academia: https://crete.academia.edu/RafailGiannadakis
