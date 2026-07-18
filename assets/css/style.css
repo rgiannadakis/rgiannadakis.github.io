@@ -129,7 +129,7 @@ nav.links a:hover{
 }
 .info-row span{ display:inline-flex; align-items:center; gap:8px; }
 .info-row svg{ color:var(--accent); flex-shrink:0; }
-.social-row{ display:flex; justify-content:center; width:100%; gap:8px; }
+.social-row{ display:flex; justify-content:flex-start; gap:8px; }
 .social-row a{
   display:inline-flex; align-items:center; justify-content:center;
   width:48px; height:48px; border-radius:50%;
@@ -160,6 +160,7 @@ nav.links a:hover{
   .hero-grid--compact{ grid-template-columns:1fr; }
   .hero-left{ align-items:center; text-align:center; }
   .info-row{ align-items:center; }
+  .social-row{ justify-content:center; }
 }
 
 /* sections */
