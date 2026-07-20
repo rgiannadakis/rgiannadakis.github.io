@@ -13,8 +13,6 @@ section_title: Get in touch
 permalink: /contact/
 ---
 
-Feel free to contact me!
-
 <div class="btn-row">
   <a class="btn btn-lg" href="mailto:giannadakis.uni@gmail.com">Personal email</a>
   <a class="btn btn-lg" href="mailto:rgiannadakis@ucsb.edu">Academic email</a>
