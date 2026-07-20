@@ -168,7 +168,7 @@ section{ padding:35px 0; border-bottom:1px solid var(--accent-light); }
 section:last-of-type{ border-bottom:none; }
 .eyebrow{
   font-size:16.5px; font-style:italic; text-transform:uppercase;
-  letter-spacing:0.06em; color:var(--accent); margin:0 0 18px; text-align:left;
+  letter-spacing:0.06em; color:var(--accent); margin:0 0 10px; text-align:left;
 }
 ul.tags{
   list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap;
@@ -217,7 +217,7 @@ ul.tags li{
   background:var(--accent); color:#fff !important; text-decoration:none; border:none;
 }
 .btn:hover{ background:var(--deep); }
-.btn-row{ display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin:13px 0 9px; }
+.btn-row{ display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin:2px 0 9px; }
 .btn-lg{ padding:14px 31px; font-size:17.5px; }
 .badge{
   font-size:10px; font-style:italic; text-transform:none;
