@@ -10,32 +10,42 @@ permalink: /full-cv/
 {% assign pres_page = site.pages | where: "url", "/presentations/" | first %}
 {% assign teach_page = site.pages | where: "url", "/teaching/" | first %}
 
-<div class="hero-grid full-cv-about">
-  <div class="hero-left">
-    <div class="hero-photo">
-      <img class="avatar" src="/images/profile.png" alt="Rafail Giannadakis" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-      <div class="avatar" style="display:none; align-items:center; justify-content:center; font-size:52px; color:var(--accent);">RG</div>
-    </div>
-  </div>
-  <div class="hero-right">
-    <h1 class="page-title full-cv-title">About</h1>
-    <div class="prose prose--narrow">
-      {{ about_page.content }}
-    </div>
-  </div>
+<div class="plain-cv">
+
+<h1>Rafail Giannadakis</h1>
+<p class="contact-line">
+giannadakis.uni@gmail.com &middot; rgiannadakis@ucsb.edu &middot;
+<a href="https://www.linkedin.com/in/rgiannadakis">LinkedIn</a> &middot;
+<a href="https://orcid.org/0009-0009-6708-4396">ORCID</a> &middot;
+<a href="https://crete.academia.edu/RafailGiannadakis">Academia.edu</a>
+</p>
+
+<h2>About</h2>
+<div class="prose">
+{{ about_page.content }}
 </div>
 
-<h1 class="page-title">{{ cv_page.title }}</h1>
+<h2>{{ cv_page.title }}</h2>
+<div class="prose">
 {{ cv_page.content }}
+</div>
 
-<h1 class="page-title">{{ pubs_page.title }}</h1>
+<h2>{{ pubs_page.title }}</h2>
+<div class="prose">
 {{ pubs_page.content }}
+</div>
 
-<h1 class="page-title">{{ pres_page.title }}</h1>
+<h2>{{ pres_page.title }}</h2>
+<div class="prose">
 {{ pres_page.content }}
+</div>
 
-<h1 class="page-title">{{ teach_page.title }}</h1>
+<h2>{{ teach_page.title }}</h2>
+<div class="prose">
 {{ teach_page.content }}
+</div>
+
+</div>
 
 <div class="btn-row no-print">
   <a class="btn btn-lg" href="javascript:window.print()">Save as PDF (Print)</a>
