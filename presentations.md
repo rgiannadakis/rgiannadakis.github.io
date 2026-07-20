@@ -9,39 +9,27 @@ Conference talks and invited presentations I've given.
 ## Conference Presentations
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2026, March 28). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A proposal for Teaching Ancient Greek Literature]. Presented at the 3rd Panhellenic Conference, "Education in the era of digital technology and artificial intelligence," Athens, Greece.
-
-<div class="entry-tag"><span class="badge-tag">Invited</span></div>
+Giannadakis, R. (2026, March 28). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A proposal for Teaching Ancient Greek Literature]. Presented at the 3rd Panhellenic Conference, "Education in the era of digital technology and artificial intelligence," Athens, Greece. <span class="badge-tag">Invited</span>
 </div>
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2025, June 28). Critical creativity: Engaging students with AI to counter disinformation. Presented at the *Revisiting Disinformation: Critical Media Literacy Approaches* International Conference, Rethymno, Crete, Greece.
-
-<div class="entry-tag"><span class="badge-tag">Peer-reviewed</span></div>
+Giannadakis, R. (2025, June 28). Critical creativity: Engaging students with AI to counter disinformation. Presented at the *Revisiting Disinformation: Critical Media Literacy Approaches* International Conference, Rethymno, Crete, Greece. <span class="badge-tag">Peer-reviewed</span>
 </div>
 
 <div class="entry" markdown="1">
-Milio, R., Giannadakis, R., & Lourentzaki, A. (2025, June 20). Creating ontoterminologies for antiquity: Workflow, challenges and solutions. Presented at the 4th International Conference on Multilingual Digital Terminology Today: Design, Representation Formats and Management Systems (MDTT 2025), Thessaloniki, Greece.
-
-<div class="entry-tag"><span class="badge-tag">Peer-reviewed</span></div>
+Milio, R., Giannadakis, R., & Lourentzaki, A. (2025, June 20). Creating ontoterminologies for antiquity: Workflow, challenges and solutions. Presented at the 4th International Conference on Multilingual Digital Terminology Today: Design, Representation Formats and Management Systems (MDTT 2025), Thessaloniki, Greece. <span class="badge-tag">Peer-reviewed</span>
 </div>
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2025, June 6). Towards a Conceptualization of an Archaic Lyrical Agora. Presented at TOTh 2025: Terminology & Ontology – Theories and Applications International Conference, Chambéry, France.
-
-<div class="entry-tag"><span class="badge-tag">Peer-reviewed</span></div>
+Giannadakis, R. (2025, June 6). Towards a Conceptualization of an Archaic Lyrical Agora. Presented at TOTh 2025: Terminology & Ontology – Theories and Applications International Conference, Chambéry, France. <span class="badge-tag">Peer-reviewed</span>
 </div>
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2024, June 7). Ontologies for Digital Humanities: An example of utilisation in the research and study of Classics. Presented at TOTh 2024: Terminology & Ontology – Theories and Applications International Conference, Chambéry, France.
-
-<div class="entry-tag"><span class="badge-tag">Peer-reviewed</span></div>
+Giannadakis, R. (2024, June 7). Ontologies for Digital Humanities: An example of utilisation in the research and study of Classics. Presented at TOTh 2024: Terminology & Ontology – Theories and Applications International Conference, Chambéry, France. <span class="badge-tag">Peer-reviewed</span>
 </div>
 
 <div class="entry" markdown="1">
-Samioti, Y., & Giannadakis, R. (2024, May 11). Η χρήση της τεχνητής νοημοσύνης στην αντιμετώπιση της παραπληροφόρησης στην τριτοβάθμια εκπαίδευση [The use of artificial intelligence in countering disinformation in higher education]. Co-presented at the Language, Education, and Artificial Intelligence International Conference, Rethymnon, Greece.
-
-<div class="entry-tag"><span class="badge-tag">Peer-reviewed</span></div>
+Samioti, Y., & Giannadakis, R. (2024, May 11). Η χρήση της τεχνητής νοημοσύνης στην αντιμετώπιση της παραπληροφόρησης στην τριτοβάθμια εκπαίδευση [The use of artificial intelligence in countering disinformation in higher education]. Co-presented at the Language, Education, and Artificial Intelligence International Conference, Rethymnon, Greece. <span class="badge-tag">Peer-reviewed</span>
 </div>
 
 ## Invited Presentations

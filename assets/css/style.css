@@ -184,6 +184,7 @@ ul.tags li{
   border-radius:20px; color:var(--ink); background:var(--paper);
 }
 .prose p{ margin:0 0 20px; text-align:justify; hyphens:auto; }
+.prose p:last-child{ margin-bottom:0; }
 .prose{ max-width:min(1300px, 96%); color:var(--ink); font-size:18px; margin:0 auto; }
 .prose--narrow{ max-width:min(900px, 100%); }
 .prose strong{ font-weight:700; }
@@ -228,15 +229,13 @@ ul.tags li{
   transition:color .15s ease, border-color .15s ease;
 }
 .entry-link:hover{ border-bottom-color:var(--accent); }
-.entry-tag{ display:flex; justify-content:flex-end; margin-top:6px; }
 .badge-tag{
   display:inline-block;
   font-family:var(--mono);
-  font-size:11px; text-transform:uppercase;
-  letter-spacing:0.03em; color:var(--accent);
-  background:var(--accent-soft); border:none; border-radius:8px;
-  padding:3px 10px;
-  white-space:nowrap;
+  font-size:10px; text-transform:uppercase;
+  letter-spacing:0.02em; color:var(--accent);
+  border:1px solid rgba(15,41,93,0.35); border-radius:8px; padding:1px 7px;
+  margin-left:4px; vertical-align:super; white-space:nowrap;
 }
 .page-title{
   font-weight:400; color:var(--accent); text-align:center;
@@ -262,22 +261,33 @@ ul.tags li{
 
 /* plain, print-safe CV document */
 .plain-cv{ text-align:left; }
+.cv-header{ text-align:center; margin-bottom:24px; }
+.cv-header .avatar{ width:110px; height:110px; margin:0 auto 14px; box-shadow:none; }
 .plain-cv h1{
-  font-size:1.9em; font-weight:700; font-style:normal; text-transform:none;
-  letter-spacing:0; color:var(--ink); text-align:left;
-  border:none; padding:0; margin:0 0 6px;
+  font-size:2.1em; font-weight:700; font-style:normal; text-transform:none;
+  letter-spacing:0; color:var(--ink); text-align:center;
+  border:none; padding:0; margin:0 0 8px;
 }
 .plain-cv .contact-line{
-  font-size:0.9em; color:var(--ink-soft); margin:0 0 1.6em;
+  font-size:0.9em; color:var(--ink-soft); margin:0; text-align:center;
 }
 .plain-cv .contact-line a{ color:var(--ink-soft); border-bottom:1px solid rgba(0,0,0,0.2); }
+.cv-divider{
+  border:none; border-top:2px solid var(--accent-light);
+  width:60px; margin:1.8em 0 1em;
+}
+.plain-cv h2.cv-section{
+  font-style:normal; text-transform:none; letter-spacing:0;
+  color:var(--ink); font-weight:700; font-size:1.3em;
+  text-align:left; border:none; padding:0;
+  margin:0 0 0.6em;
+}
 .plain-cv h2{
   font-style:normal; text-transform:none; letter-spacing:0;
-  color:var(--ink); font-weight:700; font-size:1.25em;
+  color:var(--ink); font-weight:700; font-size:1.1em;
   text-align:left; border:none; padding:0;
-  margin-top:1.6em; margin-bottom:0.5em;
+  margin-top:1.2em; margin-bottom:0.4em;
 }
-.plain-cv h2:first-of-type{ margin-top:0; }
 .plain-cv h3{ font-size:1.05em; font-weight:700; color:var(--ink); margin:1em 0 0.3em; }
 .plain-cv .prose{ font-size:1em; }
 .plain-cv p{ text-align:left; margin:0 0 0.8em; }
@@ -286,13 +296,14 @@ ul.tags li{
 .plain-cv .entry{
   border:none; border-radius:0; padding:0; margin:0 0 0.9em; background:none;
 }
-.plain-cv .entry-tag{ display:inline; margin:0 0 0 8px; }
+.plain-cv .entry-link{ font-size:0.9em; }
 .plain-cv .badge-tag{
-  font-family:inherit; background:none; border:none; padding:0;
-  font-size:0.85em; font-style:italic; color:var(--ink-soft); text-transform:none;
+  float:none; display:inline; font-family:inherit; background:none; border:none; padding:0;
+  margin:0; font-size:0.9em; font-style:italic; color:var(--ink-soft); text-transform:none;
   letter-spacing:0;
 }
-.plain-cv .entry-link{ font-size:0.9em; }
+.plain-cv .badge-tag::before{ content:"("; }
+.plain-cv .badge-tag::after{ content:")"; }
 .plain-cv a{ color:var(--ink); border-bottom:1px solid rgba(0,0,0,0.25); }
 
 /* footer */
@@ -348,9 +359,12 @@ footer .bar-inner > div > div:last-child{ font-family:var(--mono); }
 
   .plain-cv{ font-size:12pt; }
   .plain-cv h1{ font-size:22pt; }
-  .plain-cv h2{ font-size:14pt; page-break-after:avoid; }
-  .plain-cv h3{ font-size:12.5pt; page-break-after:avoid; }
+  .plain-cv h2.cv-section{ font-size:15pt; page-break-after:avoid; }
+  .plain-cv h2{ font-size:12.5pt; page-break-after:avoid; }
+  .plain-cv h3{ font-size:12pt; page-break-after:avoid; }
   .plain-cv .entry{ page-break-inside:avoid; margin-bottom:0.7em; }
   .plain-cv .contact-line{ font-size:10pt; }
   .plain-cv .badge-tag{ color:#000; }
+  .cv-header .avatar{ width:85px; height:85px; }
+  .cv-divider{ border-top-color:#999; }
 }
