@@ -208,6 +208,34 @@ ul.tags li{
   margin-top:0;
 }
 .prose li{ margin-bottom:0.4rem; }
+.entry{
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:20px 56px 20px 22px;
+  margin-bottom:16px;
+  position:relative;
+}
+.entry:last-child{ margin-bottom:0; }
+.entry p{ margin:0 0 10px; text-align:left; }
+.entry p:last-child{ margin-bottom:0; }
+.entry-link{
+  display:inline-block;
+  font-size:14px;
+  color:var(--accent);
+  text-decoration:none;
+  border-bottom:1px solid rgba(15,41,93,0.28);
+  margin-top:2px;
+  transition:color .15s ease, border-color .15s ease;
+}
+.entry-link:hover{ border-bottom-color:var(--accent); }
+.badge-tag{
+  position:absolute; top:18px; right:18px;
+  font-family:var(--mono);
+  font-size:10px; text-transform:uppercase;
+  letter-spacing:0.02em; color:var(--accent);
+  border:1px solid rgba(15,41,93,0.35); border-radius:8px; padding:2px 8px;
+  white-space:nowrap;
+}
 .page-title{
   font-weight:400; color:var(--accent); text-align:center;
   padding-bottom:18px; margin-bottom:2.2rem;
