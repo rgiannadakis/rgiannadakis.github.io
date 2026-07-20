@@ -211,9 +211,9 @@ ul.tags li{
 .entry{
   border:1px solid var(--line);
   border-radius:10px;
-  padding:20px 56px 20px 22px;
+  padding:20px 22px;
   margin-bottom:16px;
-  position:relative;
+  background:rgba(255,255,255,0.35);
 }
 .entry:last-child{ margin-bottom:0; }
 .entry p{ margin:0 0 10px; text-align:left; }
@@ -228,12 +228,14 @@ ul.tags li{
   transition:color .15s ease, border-color .15s ease;
 }
 .entry-link:hover{ border-bottom-color:var(--accent); }
+.entry-tag{ display:flex; justify-content:flex-end; margin-bottom:10px; }
 .badge-tag{
-  position:absolute; top:18px; right:18px;
+  display:inline-block;
   font-family:var(--mono);
-  font-size:10px; text-transform:uppercase;
-  letter-spacing:0.02em; color:var(--accent);
-  border:1px solid rgba(15,41,93,0.35); border-radius:8px; padding:2px 8px;
+  font-size:11px; text-transform:uppercase;
+  letter-spacing:0.03em; color:var(--accent);
+  background:var(--accent-soft); border:none; border-radius:8px;
+  padding:3px 10px;
   white-space:nowrap;
 }
 .page-title{
