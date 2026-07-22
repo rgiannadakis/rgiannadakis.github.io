@@ -7,11 +7,11 @@ permalink: /teaching/
 ## Training Sessions Given
 
 <div class="entry" markdown="1">
-Papadopoulou, M., & Giannadakis, R. (2026, June 25). Looking for Europa (mal du pays). Hands-on training session delivered at the <em>Crete Past and Present 2026: Receptions of Crete</em> Summer School, Xenia Student Cultural Center, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/cretepastandpresent2026/">Newsletter link →</a>
+Papadopoulou, M., & Giannadakis, R. (2026, June 25). Looking for Europa (mal du pays). Hands-on training session delivered at the <em>Crete Past and Present 2026: Receptions of Crete</em> Summer School, Xenia Student Cultural Center, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/cretepastandpresent2026/">Report link →</a>
 </div>
 
 <div class="entry" markdown="1">
-Tamiolaki, M., & Giannadakis, R. (2025, September 8). Πώς μπορεί να συμβάλει η Τεχνητή Νοημοσύνη στη μελέτη και την κατανόηση του αρχαίου κόσμου; [How Artificial Intelligence Can Contribute to the Study and Understanding of the Ancient World]. Training session delivered at the <em>TALOS Summer School: Artificial Intelligence for the Social and Human Sciences 2025</em>, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">Link →</a>
+Tamiolaki, M., & Giannadakis, R. (2025, September 8). Πώς μπορεί να συμβάλει η Τεχνητή Νοημοσύνη στη μελέτη και την κατανόηση του αρχαίου κόσμου; [How Artificial Intelligence Can Contribute to the Study and Understanding of the Ancient World]. Training session delivered at the <em>TALOS Summer School: Artificial Intelligence for the Social and Human Sciences 2025</em>, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/#:~:text=%CE%A7%CF%8E%CF%81%CE%BF%CF%82%3A%20%CE%94%CE%99%CE%95%CE%A3%CE%A4%CE%91%CE%A0-,Mon,-08/09">Link →</a>
 </div>
 
 <div class="entry" markdown="1">
