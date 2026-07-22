@@ -13,8 +13,8 @@ This page provides a concise overview of my academic CV. For publications, datas
 <div class="cv-item">
 <div class="cv-date">2021–2025:</div>
 <div class="cv-description">
-BA in Philology (major in Classical Studies), University of Crete.<br>
-<em>Grade:</em> «Άριστα» [Excellent] — 9.42/10. <em>Graduated 2nd in year; completed on time</em> (4-year BA, per Greek system).
+BA in Philology (Ptychio), specializing in Classical Studies, University of Crete.<br>
+<em>Grade:</em> «Άριστα» [Excellent] — 9.42/10. <em>Ranked second in the graduating cohort; completed the degree on time</em> (four-year BA, per the Greek higher-education system).
 </div>
 </div>
 
@@ -22,7 +22,7 @@ BA in Philology (major in Classical Studies), University of Crete.<br>
 <div class="cv-date">2018–2021:</div>
 <div class="cv-description">
 Upper Secondary School (Lykeio), 3rd Day Lykeio School of Rethymnon.<br>
-<em>Grade:</em> «Άριστα» [Excellent] — 19.9/20.
+<em>Final grade (Apolytirion):</em> «Άριστα» [Excellent] — 19.9/20.
 </div>
 </div>
 
@@ -30,7 +30,7 @@ Upper Secondary School (Lykeio), 3rd Day Lykeio School of Rethymnon.<br>
 <div class="cv-date">2015–2018:</div>
 <div class="cv-description">
 Lower Secondary School (Gymnasio), 3rd Day Gymnasio School of Rethymnon.<br>
-<em>Grade:</em> «Άριστα» [Excellent] — 19.3/20.
+<em>Final grade (Apolytirion):</em> «Άριστα» [Excellent] — 19.3/20.
 </div>
 </div>
 
@@ -239,75 +239,6 @@ Contact: Associate Prof. Zacharoula Petraki (Summer School Scientific Responsibl
 <div class="cv-description">
 University of Crete team member, <em>Discussing Ancient Texts</em>.<br>
 Participated in discussions with high-school students on Plato's <em>Republic</em> and Aristophanes' <em>Peace</em>.
-</div>
-</div>
-
-</div>
-
-## Essays for University of Crete Semester Seminars
-
-<div class="cv-list">
-
-<div class="cv-item">
-<div class="cv-date">Spring 2025:</div>
-<div class="cv-description">
-"Η αντανάκλαση και ο καθρέφτης στην Πολιτεία του Πλάτωνα" [Reflection and the mirror in Plato's Republic], <em>Plato's Republic</em> Seminar, Supervisor: Zacharoula Petraki. Grade: 10/10.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">Winter 2025:</div>
-<div class="cv-description">
-"Periere mores ius decus pietas fides et qui redire cum perit nescit pudor: Senecae Clytemestra," <em>Female Voices in Latin Literature</em> Seminar, Supervisor: Georgia Tsouni. Grade: 10/10.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">Spring 2024:</div>
-<div class="cv-description">
-"Το ζωικό δηλητήριο σε επιγράμματα της Παλατινής Ανθολογίας" [Animal poison in epigrams of the Greek Anthology], <em>Ancient Greek Epigrams</em> Seminar, Supervisor: Nikos Litinas. Grade: 10/10.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">Spring 2024:</div>
-<div class="cv-description">
-"ALyrA ontology: An attempt to create an Archaic Lyric Agora using Protégé," <em>Introduction to AI: Ontology for SSH</em> Seminar, Supervisor: Christophe Roche. Grade: 10/10.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">Winter 2023:</div>
-<div class="cv-description">
-"How to query an ontology: The example of querying LACRIMALit ontology," <em>Artificial Intelligence I: Knowledge Graphs</em> Seminar, Supervisor: Christophe Roche. Grade: 10/10.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">Winter 2023:</div>
-<div class="cv-description">
-"Διπλωματική μεταγραφή δειγμάτων γραφής: Grec.2389 (Ptolemæus), Vat.gr.1660, Laur.Plut.10.3, Vat.gr.1190" [Diplomatic transcription of writing samples], <em>Introduction to Greek Paleography and Codification</em> Seminar, Supervisor: Marina Detoraki. Grade: 10/10.
-</div>
-</div>
-
-</div>
-
-## Languages
-
-<div class="cv-list">
-
-<div class="cv-item">
-<div class="cv-date">Greek:</div>
-<div class="cv-description">
-Native.
-</div>
-</div>
-
-<div class="cv-item">
-<div class="cv-date">English:</div>
-<div class="cv-description">
-TOEFL iBT, October 2025 — 104/120.<br>
-Reading: 26/30; Listening: 27/30; Speaking: 24/30; Writing: 27/30.
 </div>
 </div>
 
