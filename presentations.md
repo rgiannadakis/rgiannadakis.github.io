@@ -15,7 +15,7 @@ Giannadakis, R. (2026, May 30). Formalizing lyre and chorus: An ontoterminology 
 </div>
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2026, March 28). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A proposal for teaching ancient Greek literature]. Presented at the 3rd Panhellenic Conference, *Education in the Era of Digital Technologies and Artificial Intelligence*, Harokopio University, Athens, Greece. <span class="badge-tag">Invited</span>
+Giannadakis, R. (2026, March 28). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A proposal for teaching ancient Greek literature]. Presented online at the 3rd Panhellenic Conference, *Education in the Era of Digital Technologies and Artificial Intelligence*, Harokopio University, Athens, Greece. <span class="badge-tag">Invited</span>
 </div>
 
 <div class="entry" markdown="1">
