@@ -7,7 +7,7 @@ permalink: /teaching/
 ## Training Sessions Given
 
 <div class="entry" markdown="1">
-Papadopoulou, M., & Giannadakis, R. (2026, June 25). Looking for Europa (mal du pays). Hands-on training session delivered at the <em>Crete Past and Present 2026: Receptions of Crete</em> Summer School, Xenia Student Cultural Center, University of Crete, Rethymno, Greece.  <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/cretepastandpresent2026/">Newsletter link →</a>
+Papadopoulou, M., & Giannadakis, R. (2026, June 25). Looking for Europa (mal du pays). Hands-on training session delivered at the <em>Crete Past and Present 2026: Receptions of Crete</em> Summer School, Xenia Student Cultural Center, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/cretepastandpresent2026/">Newsletter link →</a>
 </div>
 
 <div class="entry" markdown="1">
