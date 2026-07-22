@@ -43,7 +43,7 @@ Lower Secondary School (Gymnasio), 3rd Day Gymnasio School of Rethymnon.<br>
 <div class="cv-item">
 <div class="cv-date">2023–2025:</div>
 <div class="cv-description">
-Level B Short Program Diploma in Digital Humanities, TALOS–ERA Chair in AI for SSH, University of Crete.<br>
+<a href="https://talos-ai4ssh.uoc.gr/training/short-programme-dh/">Level B Short Program-Diploma in Digital Humanities</a>, TALOS–ERA Chair in AI for SSH, University of Crete.<br>
 60 ECTS. <em>Grade:</em> «Άριστα» [Excellent] — 10/10.
 </div>
 </div>
@@ -58,7 +58,7 @@ Pedagogical and Teaching Competency Certification, Faculty of Letters, Universit
 <div class="cv-item">
 <div class="cv-date">April–July 2024:</div>
 <div class="cv-description">
-Computational Palaeography and Papyrology, KEDIVIM, Athens University of Economics and Business.<br>
+<a href="https://diaviou.aueb.gr/en/programs-en/34648-computational-palaeography-and-papyrology">Computational Palaeography and Papyrology</a>, KEDIVIM, Athens University of Economics and Business.<br>
 5 ECTS, 150 hours. <em>Grade:</em> «Άριστα» [Excellent] — 100/100.
 </div>
 </div>
@@ -66,7 +66,7 @@ Computational Palaeography and Papyrology, KEDIVIM, Athens University of Economi
 <div class="cv-item">
 <div class="cv-date">2021–2023:</div>
 <div class="cv-description">
-Academic Skills and Writing Center courses, Writing Center, School of Philosophy, University of Crete.<br>
+Academic Skills and <a href="https://writingcenter.phl.uoc.gr/">Writing Center</a> courses, Writing Center, School of Philosophy, University of Crete.<br>
 Topics included essential academic skills, academic essay writing, editing and proofreading, exams and essays, and academic reading skills.
 </div>
 </div>
@@ -126,8 +126,8 @@ Awarded for high academic performance in the third year. <em>Amount:</em> €100
 <div class="cv-item">
 <div class="cv-date">February 2024–Present:</div>
 <div class="cv-description">
-Research Assistant and Social Media Manager, TALOS–ERA Chair in Artificial Intelligence for Humanities and Social Sciences, Department of Philology, University of Crete.<br>
-Funded by the European Union. Project ID: 101087269 (CORDIS).
+<a href="https://talos-ai4ssh.uoc.gr/talos-centre/team/">Research Assistant and Social Media Manager</a>, <a href="https://talos-ai4ssh.uoc.gr/">TALOS–ERA Chair in Artificial Intelligence for Humanities and Social Sciences</a>, Department of Philology, University of Crete.<br>
+Funded by the European Union. Project ID: 101087269 (<a href="https://cordis.europa.eu/project/id/101087269">CORDIS</a>). Contact: Assistant Prof. Maria Papadopoulou (Project Manager).
 
 <p><em>Summary of activities:</em></p>
 
@@ -135,7 +135,7 @@ Funded by the European Union. Project ID: 101087269 (CORDIS).
 <li><strong>Data and research:</strong> Curated and developed two open linked datasets for Classics use cases; presented research at three international conferences and contributed to conference publications.</li>
 <li><strong>Training and MOOCs:</strong> Co-created training materials and served as an instructor for five training programs and one MOOC.</li>
 <li><strong>Communication and dissemination:</strong> Managed the project's Facebook, Instagram, LinkedIn, and X accounts; published over 1,300 posts and grew a combined audience of over 5,600 followers and connections; maintained the project website and authored over 120 event blog posts.</li>
-<li><strong>Events and technical support:</strong> Supported 28 hybrid lectures and events, including the SA4AW International Conference in May 2025 and the TALOS–AI4SSH Summer School in September 2025.</li>
+<li><strong>Events and technical support:</strong> Supported 28 hybrid lectures and events, including the <a href="https://talos-ai4ssh.uoc.gr/events/conferences/semantic-annotation-for-the-ancient-world-conference/">SA4AW International Conference</a> in May 2025 and the <a href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">TALOS–AI4SSH Summer School</a> in September 2025.</li>
 <li><strong>Conference organization:</strong> Member of the TOTh Conferences Organizing Committee.</li>
 </ul>
 </div>
@@ -144,7 +144,8 @@ Funded by the European Union. Project ID: 101087269 (CORDIS).
 <div class="cv-item">
 <div class="cv-date">June 2025:</div>
 <div class="cv-description">
-Technical, data management, promotion, and administrative support, <em>Crete Past and Present: Crete on Stage</em> Summer School, Division of Classical Studies, Department of Philology, University of Crete.
+Technical, data management, promotion, and administrative support, <em>Crete Past and Present: Crete on Stage</em> Summer School, Division of Classical Studies, Department of Philology, University of Crete.<br>
+Contact: Associate Prof. Zacharoula Petraki (Summer School Scientific Responsible).
 </div>
 </div>
 
@@ -157,8 +158,8 @@ Technical, data management, promotion, and administrative support, <em>Crete Pas
 <div class="cv-item">
 <div class="cv-date">February 2025–Present:</div>
 <div class="cv-description">
-TOTh International Conference, organized by TALOS–AI4SSH, University of Crete, and held annually in Chambéry, France, since 2007.<br>
-Organizing Committee Member and TOTh Proceedings Editorial Committee Member.
+<a href="https://toth.condillac.org/conference">TOTh International Conference</a>, organized by TALOS–AI4SSH, University of Crete, and held annually in Chambéry, France, since 2007.<br>
+<a href="https://toth.condillac.org/committees">Organizing Committee</a> Member and TOTh Proceedings Editorial Committee Member.
 </div>
 </div>
 
@@ -213,8 +214,8 @@ Semantic Annotation for the Ancient World Conference 2025, Rethymno, Crete, Gree
 <div class="cv-item">
 <div class="cv-date">September 2023–Present:</div>
 <div class="cv-description">
-Assistant, Writing Center, School of Philosophy, University of Crete.<br>
-Supported academic-skills guidance, student support, teaching materials, digital learning materials, oral-presentation training, and outreach.
+<a href="https://writingcenter.phl.uoc.gr/2024/05/19/voithoi-kentrou-grafis-2023-2024/">Assistant, Writing Center</a>, School of Philosophy, University of Crete.<br>
+Supported academic-skills guidance, student support, teaching materials, digital learning materials, oral-presentation training, and outreach. Contact: Dr. Panagiota Samioti (Center's instructor).
 </div>
 </div>
 
@@ -228,7 +229,8 @@ Usher, Erofili Theatre, Municipality of Rethymnon.
 <div class="cv-item">
 <div class="cv-date">June–July 2024:</div>
 <div class="cv-description">
-Technical, data management, promotion, and administrative support, <em>Crete Past and Present</em> Summer School, Division of Classical Studies, Department of Philology, University of Crete.
+Technical, data management, promotion, and administrative support, <em>Crete Past and Present</em> Summer School, Division of Classical Studies, Department of Philology, University of Crete.<br>
+Contact: Associate Prof. Zacharoula Petraki (Summer School Scientific Responsible).
 </div>
 </div>
 
@@ -237,6 +239,54 @@ Technical, data management, promotion, and administrative support, <em>Crete Pas
 <div class="cv-description">
 University of Crete team member, <em>Discussing Ancient Texts</em>.<br>
 Participated in discussions with high-school students on Plato's <em>Republic</em> and Aristophanes' <em>Peace</em>.
+</div>
+</div>
+
+</div>
+
+## Essays for University of Crete Semester Seminars
+
+<div class="cv-list">
+
+<div class="cv-item">
+<div class="cv-date">Spring 2025:</div>
+<div class="cv-description">
+"Η αντανάκλαση και ο καθρέφτης στην Πολιτεία του Πλάτωνα" [Reflection and the mirror in Plato's Republic], <em>Plato's Republic</em> Seminar, Supervisor: Zacharoula Petraki. Grade: 10/10.
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-date">Winter 2025:</div>
+<div class="cv-description">
+"Periere mores ius decus pietas fides et qui redire cum perit nescit pudor: Senecae Clytemestra," <em>Female Voices in Latin Literature</em> Seminar, Supervisor: Georgia Tsouni. Grade: 10/10.
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-date">Spring 2024:</div>
+<div class="cv-description">
+"Το ζωικό δηλητήριο σε επιγράμματα της Παλατινής Ανθολογίας" [Animal poison in epigrams of the Greek Anthology], <em>Ancient Greek Epigrams</em> Seminar, Supervisor: Nikos Litinas. Grade: 10/10.
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-date">Spring 2024:</div>
+<div class="cv-description">
+"ALyrA ontology: An attempt to create an Archaic Lyric Agora using Protégé," <em>Introduction to AI: Ontology for SSH</em> Seminar, Supervisor: Christophe Roche. Grade: 10/10.
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-date">Winter 2023:</div>
+<div class="cv-description">
+"How to query an ontology: The example of querying LACRIMALit ontology," <em>Artificial Intelligence I: Knowledge Graphs</em> Seminar, Supervisor: Christophe Roche. Grade: 10/10.
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-date">Winter 2023:</div>
+<div class="cv-description">
+"Διπλωματική μεταγραφή δειγμάτων γραφής: Grec.2389 (Ptolemæus), Vat.gr.1660, Laur.Plut.10.3, Vat.gr.1190" [Diplomatic transcription of writing samples], <em>Introduction to Greek Paleography and Codification</em> Seminar, Supervisor: Marina Detoraki. Grade: 10/10.
 </div>
 </div>
 
