@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-This page provides a concise overview of my academic CV. For publications, datasets, presentations, and teaching/training activities, see the relevant pages of this website.
-
 ## Education
 
 <div class="cv-list">

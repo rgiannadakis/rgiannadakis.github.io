@@ -4,8 +4,6 @@ title: Presentations
 permalink: /presentations/
 ---
 
-Conference talks and invited presentations I've given.
-
 ## Conference Presentations
 
 <div class="entry" markdown="1">

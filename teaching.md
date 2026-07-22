@@ -4,8 +4,6 @@ title: Teaching & Training
 permalink: /teaching/
 ---
 
-Training sessions, courses, workshops, teaching materials, and teaching-assistance activities I have designed, delivered, co-taught, or supported.
-
 ## Training Sessions Given
 
 <div class="entry" markdown="1">

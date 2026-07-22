@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-A complete list of my publications, edited volumes, and datasets.
-
 ## Publications
 
 <div class="entry" markdown="1">
