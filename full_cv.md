@@ -54,6 +54,7 @@ permalink: /full-cv/
 
 </div>
 
+<hr class="cv-full-divider no-print">
 <div class="btn-row no-print">
   <a class="btn btn-lg" href="javascript:window.print()">Save as PDF (Print)</a>
 </div>
