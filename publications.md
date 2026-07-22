@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 A complete list of my publications, edited volumes, and datasets.
 
 ## Publications

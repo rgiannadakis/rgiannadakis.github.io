@@ -138,11 +138,11 @@ Book Voucher, Department of Philology and Crete University Press, University of 
 <p><em>Summary of activities:</em></p>
 
 <ul>
-<li><strong>Data and research:</strong> Curated and developed two open linked-data resources focused on ancient Greek philosophy and archaic Greek lyric poetry; presented related research at international conferences and contributed to conference publications.</li>
-<li><strong>Training and MOOCs:</strong> Co-created training materials and served as an instructor for multiple training programs and one MOOC.</li>
-<li><strong>Communication and dissemination:</strong> Managed the project’s Facebook, Instagram, LinkedIn, and X accounts; maintained the project website and authored event blog posts.</li>
-<li><strong>Events and technical support:</strong> Supported hybrid lectures and events, including the 2025 and 2026 <a href="https://talos-ai4ssh.uoc.gr/events/conferences/sa4aw-conference-semantic-annotation-for-the-ancient-world/">SA4AW International Conferences</a> and the <a href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">TALOS–AI4SSH Summer School</a> in September 2025.</li>
-<li><strong>Conference organization:</strong> Member of the Organizing Committee for the <a href="https://toth.condillac.org/">TOTh 2025 and 2026 International Conferences</a>.</li>
+<li>Data and research: Curated and developed two open linked-data resources focused on ancient Greek philosophy and archaic Greek lyric poetry; presented related research at international conferences and contributed to conference publications.</li>
+<li>Training and MOOCs: Co-created training materials and served as an instructor for multiple training programs and one MOOC.</li>
+<li>Communication and dissemination: Managed the project’s Facebook, Instagram, LinkedIn, and X accounts; maintained the project website and authored event blog posts.</li>
+<li>Events and technical support: Supported hybrid lectures and events, including the 2025 and 2026 <a href="https://talos-ai4ssh.uoc.gr/events/conferences/sa4aw-conference-semantic-annotation-for-the-ancient-world/">SA4AW International Conferences</a> and the <a href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">TALOS–AI4SSH Summer School</a> in September 2025.</li>
+<li>Conference organization: Member of the Organizing Committee for the <a href="https://toth.condillac.org/">TOTh 2025 and 2026 International Conferences</a>.</li>
 </ul>
 </div>
 </div>
