@@ -23,10 +23,6 @@ Berti-Equille, L., Giannadakis, R., & Milio, R. (2025, June 3–4). Generating K
 </div>
 
 <div class="entry" markdown="1">
-TALOS – AI for Social Sciences and Humanities MOOC. Online course, TALOS–AI4SSH, University of Crete, Rethymno, Greece, 2025. Co-creator and instructor (TEDI software and SPARQL). <a class="entry-link" href="https://opencourses.uoc.gr/course/view.php?id=401">Link →</a>
-</div>
-
-<div class="entry" markdown="1">
 Giannadakis, R., & Papadopoulou, M. (2024, July 9 and 11). Foundations of the Semantic Web: Querying and modelling ontoterminologies (SPARQL & TEDI). Online short course co-taught for graduate students at Nanjing University of Aeronautics and Astronautics, China. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/wp-content/uploads/2024/07/NUUA-short-course-2024-SPARQL-TEDI.pdf">Materials →</a> <a class="entry-link" href="https://youtu.be/yQcrXjUBX3U">Video →</a>
 </div>
 
@@ -44,8 +40,12 @@ Giannadakis, R. (2023, January 5). Supplementary teaching for <em>Introduction t
 Giannadakis, R. (2026, January). Teaching Assistant for <em>Crete and the Aegean from Prehistory to the Early Byzantine Period</em>. Course offered through a collaboration between College Year in Athens and the University of Crete. Supported the academic program and course activities under the supervision of Dr. Nikos Litinas and Dr. Demetrios Kritsotakis.
 </div>
 
-## Training Materials
+## Educational Resources
 
 <div class="entry" markdown="1">
-Training Materials for Standards in SSH. Online training resource, TALOS–AI4SSH, University of Crete. Contributor (SKOS and OWL). <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/#:~:text=and%20Social%20Sciences-,Training,-Materials%20for%20Standards">Link →</a>
+Training Materials for Standards in SSH. Online training material, TALOS–AI4SSH, University of Crete. Co-creator (RDF, RDFS, SKOS and OWL). <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/#:~:text=and%20Social%20Sciences-,Training,-Materials%20for%20Standards">Link →</a>
+</div>
+
+<div class="entry" markdown="1">
+TALOS – AI for Social Sciences and Humanities MOOC. Online course, TALOS–AI4SSH, University of Crete. Co-creator and instructor (TEDI software and SPARQL). <a class="entry-link" href="https://opencourses.uoc.gr/course/view.php?id=401">Link →</a>
 </div>
