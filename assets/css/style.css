@@ -24,7 +24,7 @@ body{
   color:var(--ink);
   font-family:var(--serif);
   font-size:19px;
-  line-height:1.2;
+  line-height:1.4;
   -webkit-font-smoothing:antialiased;
 }
 a{color:inherit;}
@@ -222,7 +222,7 @@ ul.tags li{
   font-size:0.95em;
 }
 .cv-description{ color:var(--ink); }
-.cv-description em{ font-style:italic; color:var(--ink-soft); }
+.cv-description em{ font-style:italic; }
 .cv-description ul{ margin:8px 0 0; padding-left:1.2em; }
 .cv-description li{ margin-bottom:0.3em; }
 .cv-description li::marker{ color:var(--accent); }
