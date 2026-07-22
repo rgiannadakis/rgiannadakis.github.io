@@ -83,13 +83,14 @@ Three semesters.
 <div class="cv-item">
 <div class="cv-date">2026–2031:</div>
 <div class="cv-description">
-Chancellor’s Fellowship, University of California, Santa Barbara, supporting the Ph.D. in Classics through fellowship funding in Years 1, 3, and 5 as part of a five-year full-support package.
+Chancellor’s Fellowship, Graduate Division, University of California, Santa Barbara. Five-year funding package comprising fellowship support in Years 1, 3, and 5 and academic employment in Years 2 and 4.
 </div>
 </div>
 
 <div class="cv-item">
 <div class="cv-date">2026–2027:</div>
-<div class="cv-description"> Fulbright Foreign Student Program for Graduate Studies</a>, Fulbright Foundation in Greece, for graduate studies in Classics at the University of California, Santa Barbara. <a class="entry-link" href="https://www.fulbright.gr/en/grantees/greek-grantees-profiles/fulbright-foreign-student-program/graduate-students/1987-rafail-giannadakis">Fulbright Greece profile →</a>
+<div class="cv-description">
+Fulbright Foreign Student Program for Graduate Studies, Fulbright Foundation in Greece, for graduate study in Classics at the University of California, Santa Barbara. <a class="entry-link" href="https://www.fulbright.gr/en/grantees/greek-grantees-profiles/fulbright-foreign-student-program/graduate-students/1987-rafail-giannadakis">Fulbright Greece profile →</a>
 </div>
 </div>
 
