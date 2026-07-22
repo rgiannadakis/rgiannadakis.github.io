@@ -13,7 +13,7 @@ This page provides a concise overview of my academic CV. For publications, datas
 <div class="cv-item">
 <div class="cv-date">2021–2025:</div>
 <div class="cv-description">
-BA in Philology (Ptychio), specializing in Classical Studies, University of Crete. <em>Grade:</em> «Άριστα» [Excellent] — 9.42/10. <em>Ranked second in the graduating cohort; completed the degree on time</em> (four-year BA, per the Greek higher-education system).
+BA in Philology (Ptychio), specializing in Classical Studies, University of Crete. Grade: «Άριστα» [Excellent] — 9.42/10. <em>Ranked second in the graduating cohort (four-year BA, per the Greek higher-education system)</em>.
 </div>
 </div>
 
@@ -27,7 +27,7 @@ Upper Secondary School (Lykeio), 3rd Day Lykeio School of Rethymnon. <em>Final g
 <div class="cv-item">
 <div class="cv-date">2015–2018:</div>
 <div class="cv-description">
-Lower Secondary School (Gymnasio), 3rd Day Gymnasio School of Rethymnon. <em>Final grade (Apolytirion):</em> «Άριστα» [Excellent] — 19.3/20.
+Lower Secondary School (Gymnasio), 3rd Day Gymnasio School of Rethymnon. <em>Final grade (Apolytirion):</em> «Άριστα» [Excellent] — 19 <sup>3</sup>&frasl;<sub>14</sub>/20.
 </div>
 </div>
 
