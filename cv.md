@@ -262,5 +262,3 @@ University of Crete team member, <em>Discussing Ancient Texts</em>. Participated
 University of Crete team member, <em>Discussing Ancient Texts</em>. Participated in a discussion with high-school students on Aristophanes' <em>Peace</em>.
 </div>
 </div>
-
-</div>
