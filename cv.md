@@ -89,8 +89,7 @@ Chancellor’s Fellowship, University of California, Santa Barbara, supporting t
 
 <div class="cv-item">
 <div class="cv-date">2026–2027:</div>
-<div class="cv-description">
-<a href="https://www.fulbright.gr/en/grantees/greek-grantees-profiles/fulbright-foreign-student-program/graduate-students/1987-rafail-giannadakis">Fulbright Foreign Student Program for Graduate Studies</a>, Fulbright Foundation in Greece, for graduate studies in Classics at the University of California, Santa Barbara.
+<div class="cv-description"> Fulbright Foreign Student Program for Graduate Studies</a>, Fulbright Foundation in Greece, for graduate studies in Classics at the University of California, Santa Barbara. <a class="entry-link" href="https://www.fulbright.gr/en/grantees/greek-grantees-profiles/fulbright-foreign-student-program/graduate-students/1987-rafail-giannadakis">Fulbright Greece profile →</a>
 </div>
 </div>
 
