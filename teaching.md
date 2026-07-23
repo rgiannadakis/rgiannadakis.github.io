@@ -47,5 +47,5 @@ TALOS – AI for Social Sciences and Humanities MOOC. Online course, TALOS–AI4
 </div>
 
 <div class="entry" markdown="1">
-Samioti, Y., & Giannadakis, R. (2023, March). ΚΓ-015 Προφορική Παρουσίαση [Oral Presentation]. Asynchronous laboratory created for the Writing Center, School of Philosophy, University of Crete. <a class="entry-link" href="https://writingcenter.phl.uoc.gr/yliko/">Link →</a>
+Samioti, Y., & Giannadakis, R. (2023, March). ΚΓ-015 Προφορική Παρουσίαση [Oral Presentation]. Asynchronous laboratory created for the Writing Center, School of Philosophy, University of Crete. <a class="entry-link" href="https://writingcenter.phl.uoc.gr/yliko/#:~:text=%CE%A5%CE%BB%CE%B9%CE%BA%CF%8C-,%CE%91%CF%83%CF%8D%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%BF,-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1%3A%20%E2%80%9C%CE%A0%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE%20%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7">Link →</a>
 </div>
