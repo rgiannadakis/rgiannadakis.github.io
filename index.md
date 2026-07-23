@@ -17,7 +17,8 @@ interests:
   - Senecan tragedy
   - Digital Humanities
   - AI in Classics and Humanities
-  - Knowledge modelling and ontoterminologies
+  - Knowledge modelling
+  - Ontoterminologies
   - Literary representations of women
   - Literary representations of material culture
 permalink: /
