@@ -12,7 +12,7 @@ orcid: https://orcid.org/0009-0009-6708-4396
 github: https://github.com/rgiannadakis
 linkedin: https://www.linkedin.com/in/rgiannadakis
 interests:
-  - Greek lyric poetry, esp. Pindar and Sappho
+  - Lyric poetry, esp. melic
   - Ancient philosophy, esp. Plato
   - Senecan tragedy
   - Digital Humanities
