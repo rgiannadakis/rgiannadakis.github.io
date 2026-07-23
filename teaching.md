@@ -27,10 +27,6 @@ Giannadakis, R., & Papadopoulou, M. (2024, July 9 and 11). Foundations of the Se
 </div>
 
 <div class="entry" markdown="1">
-Samioti, Y., & Giannadakis, R. (2023, March). ΚΓ-015 Προφορική Παρουσίαση [Oral Presentation]. Asynchronous laboratory created for the Writing Center, School of Philosophy, University of Crete. <a class="entry-link" href="https://writingcenter.phl.uoc.gr/yliko/">Link →</a>
-</div>
-
-<div class="entry" markdown="1">
 Giannadakis, R. (2023, January 5). Supplementary teaching for <em>Introduction to Classical Philology</em> (4.5 hours). Course taught by Professor Lucia Athanassaki, University of Crete, Rethymno, Greece.
 </div>
 
@@ -48,4 +44,8 @@ Training Materials for Standards in SSH. Online training material, TALOS–AI4SS
 
 <div class="entry" markdown="1">
 TALOS – AI for Social Sciences and Humanities MOOC. Online course, TALOS–AI4SSH, University of Crete. Co-creator and instructor (TEDI software and SPARQL). <a class="entry-link" href="https://opencourses.uoc.gr/course/view.php?id=401">Link →</a>
+</div>
+
+<div class="entry" markdown="1">
+Samioti, Y., & Giannadakis, R. (2023, March). ΚΓ-015 Προφορική Παρουσίαση [Oral Presentation]. Asynchronous laboratory created for the Writing Center, School of Philosophy, University of Crete. <a class="entry-link" href="https://writingcenter.phl.uoc.gr/yliko/">Link →</a>
 </div>
