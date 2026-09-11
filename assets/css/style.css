@@ -378,7 +378,7 @@ footer .bar-inner > div > div:last-child{ font-family:var(--mono); }
   @page{
     margin:0.65in;
     @bottom-right{
-      content:"Rafail Giannadakis · CV · Updated August 2026" "\A" "Page " counter(page) " of " counter(pages);
+      content:"Rafail Giannadakis · CV · Updated September 2026" "\A" "Page " counter(page) " of " counter(pages);
       white-space:pre-line;
       color:#0F295D;
       font-family:Georgia,'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;
