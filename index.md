@@ -3,7 +3,7 @@ layout: home
 full_name: Rafail Giannadakis
 pronouns: he/him
 role: Incoming PhD Student in Classics | UC Santa Barbara (2026–2027 Fulbright Grantee)
-location: Rethymno, Crete, Greece
+location: Santa Barbara, California, US
 institution: University of California, Santa Barbara
 photo: /images/profile.png
 email: giannadakis.uni@gmail.com
@@ -16,7 +16,6 @@ interests:
   - ancient philosophy, esp. Plato
   - Senecan tragedy
   - digital humanities
-  - AI in Classics and humanities
   - knowledge modelling
   - ontoterminology
   - women in literature
