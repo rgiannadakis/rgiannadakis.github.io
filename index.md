@@ -2,7 +2,7 @@
 layout: home
 full_name: Rafail Giannadakis
 pronouns: he/him
-role: Incoming PhD Student in Classics | UC Santa Barbara (2026–2027 Fulbright Grantee)
+role: PhD Student in Classics | UC Santa Barbara (2026–2027 Fulbright Grantee)
 location: HSSB 4063 | Santa Barbara, CA 93106-3120, USA
 institution: University of California, Santa Barbara
 photo: /images/profile.png
@@ -12,17 +12,18 @@ orcid: https://orcid.org/0009-0009-6708-4396
 github: https://github.com/rgiannadakis
 linkedin: https://www.linkedin.com/in/rgiannadakis
 interests:
-  - lyric poetry, esp. melic
-  - ancient philosophy, esp. Plato
+  - Greek lyric, especially Pindar and Sappho
+  - Platonic philosophy
   - Senecan tragedy
+  - poetics
   - digital humanities
   - knowledge modelling
   - ontoterminology
-  - women in literature
-  - material culture
 permalink: /
 ---
 
-I am an incoming PhD student in Classics at the University of California, Santa Barbara, and hold a BA in Philology, specializing in Classical Studies, from the University of Crete. My academic interests center on Greek and Latin poetry, ancient philosophy, and Latin tragedy, with a particular emphasis on the melic poetry of Pindar and Sappho, Platonic philosophy, and Senecan tragedy. My research integrates digital humanities and AI applications in Classics and the humanities more broadly, exploring how these methods can support and advance research, teaching, and humanistic inquiry. Additionally, I am interested in ancient literary representations of women and material culture.
+I am a PhD student in Classics at the University of California, Santa Barbara, and hold a BA in Philology, specializing in Classical Studies, from the University of Crete. My research interests center on Greek lyric, especially the melic poetry of Pindar and Sappho, Platonic philosophy, and Senecan tragedy. Across these areas, I am particularly interested in poetics and in how literary form, imagery, and representation participate in meaning-making. This perspective informs my interests in the literary dimensions of philosophical discourse, representations of women, and the role of material culture in poetic construction.
 
-Before joining UCSB as a PhD student, I worked as a Research Assistant on the TALOS–AI4SSH EU ERA Chair project at the University of Crete, where I contributed to research, publications, and training at the intersection of Classics, digital humanities, and artificial intelligence. At UCSB, my work will integrate philological approaches with digital and computational methods to support close reading, textual analysis, and the interpretation of ancient literatures and languages. My studies at UCSB are supported in part by the 2026–2027 Fulbright Foreign Student Program and the A. G. Leventis Foundation.
+Alongside my philological research, I work in digital humanities and computational approaches to Classics, including semantic technologies, knowledge and terminology representation, and ontoterminology. My work explores how these methods can support the modeling, analysis, and interpretation of ancient texts and languages and, more broadly, contribute to research, teaching, and humanistic inquiry.
+
+Before joining UCSB, I worked as a Research Assistant on the EU-funded TALOS–AI4SSH ERA Chair project at the University of Crete, where I contributed to research, publications, and training at the intersection of Classics, digital humanities, and semantic technologies. My studies at UCSB are supported in part by the 2026–2027 Fulbright Foreign Student Program and the A. G. Leventis Foundation.
