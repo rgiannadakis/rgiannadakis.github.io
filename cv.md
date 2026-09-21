@@ -9,6 +9,13 @@ permalink: /cv/
 <div class="cv-list">
 
 <div class="cv-item">
+  <div class="cv-date">2026–Present:</div>
+  <div class="cv-description">
+    PhD in Classics, University of California, Santa Barbara. <em>Expected 2031.</em>
+  </div>
+</div>
+
+<div class="cv-item">
 <div class="cv-date">2021–2025:</div>
 <div class="cv-description">
 BA in Philology (Ptychio), specializing in Classical Studies, University of Crete. Grade: «Άριστα» [Excellent] — 9.42/10. <em>Ranked second in the graduating cohort (four-year BA, per the Greek higher-education system)</em>.
