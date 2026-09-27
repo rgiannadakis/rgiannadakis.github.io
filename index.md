@@ -1,7 +1,7 @@
 ---
 layout: home
 full_name: Rafail Giannadakis
-pronouns: he/him
+pronouns: he/they
 role: PhD Student in Classics | UC Santa Barbara (2026–2027 Fulbright Grantee)
 location: HSSB 4063 | Santa Barbara, CA 93106-3120, USA
 institution: University of California, Santa Barbara
