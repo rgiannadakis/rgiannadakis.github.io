@@ -16,13 +16,14 @@ interests:
   - Platonic philosophy
   - Senecan tragedy
   - poetics
+  - aesthetics
   - digital humanities
   - knowledge modelling
   - ontoterminology
 permalink: /
 ---
 
-I am a PhD student in Classics at the University of California, Santa Barbara, and hold a BA in Philology, specializing in Classical Studies, from the University of Crete. My research interests center on Greek lyric, especially the melic poetry of Pindar and Sappho, Platonic philosophy, and Senecan tragedy. Across these areas, I am particularly interested in poetics and in how literary form, imagery, and representation participate in meaning-making. This perspective informs my interests in the literary dimensions of philosophical discourse, representations of women, and the role of material culture in poetic construction.
+I am a PhD student in Classics at the University of California, Santa Barbara, and hold a BA in Philology, specializing in Classical Studies, from the University of Crete. My research interests center on Greek lyric, especially the melic poetry of Pindar and Sappho, Platonic philosophy, and Senecan tragedy. Across these areas, I am particularly interested in questions at the intersection of poetics and aesthetics, especially how literary form, imagery, and representation participate in meaning-making. This perspective informs my interests in the literary dimensions of philosophical discourse, representations of women, and the role of material culture in poetic construction.
 
 Alongside my philological research, I work in digital humanities and computational approaches to Classics and the humanities more broadly, including semantic technologies, knowledge representation, and ontoterminology. My work explores how these methods can support the modeling, analysis, and interpretation of ancient texts and languages and contribute to research, teaching, and humanistic inquiry.
 
