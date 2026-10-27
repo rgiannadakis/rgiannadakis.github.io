@@ -203,13 +203,6 @@ TOTh 2026 Online and On-site Training Course, <em>Bringing Artificial Intelligen
 </div>
 
 <div class="cv-item">
-<div class="cv-date">July 5-18, 2025:</div>
-<div class="cv-description">
-NUAA Short-Term Program (14 days), Nanjing University of Aeronautics and Astronautics, Nanjing, China. Fully funded by NUAA.
-</div>
-</div>
-
-<div class="cv-item">
 <div class="cv-date">June 30-July 7, 2024:</div>
 <div class="cv-description">
 <em>Crete Past and Present</em>, Summer School in Classics, University of Crete, Rethymno, Greece.
