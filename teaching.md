@@ -33,7 +33,7 @@ Giannadakis, R. (2023, January 5). Supplementary teaching for <em>Introduction t
 ## Teaching Assistance
 
 <div class="entry" markdown="1">
-Giannadakis, R. (2026, January). Teaching Assistant for <em>Crete and the Aegean from Prehistory to the Early Byzantine Period</em>. Course offered through a collaboration between College Year in Athens and the University of Crete. Supported the academic program and course activities under the supervision of Dr. Nikos Litinas and Dr. Demetrios Kritsotakis.
+Teaching Assistant for <em>Crete and the Aegean from Prehistory to the Early Byzantine Period</em> (2026, January). Course offered through a collaboration between College Year in Athens and the University of Crete. Supported the academic program and course activities under the supervision of Dr. Nikos Litinas and Dr. Demetrios Kritsotakis.
 </div>
 
 ## Educational Resources
