@@ -11,7 +11,7 @@ Papadopoulou, M., & <strong>Giannadakis, R.</strong> (2026, June 25). Looking fo
 </div>
 
 <div class="entry" markdown="1">
-Tamiolaki, M., & <strong>Giannadakis, R.</strong> (2025, September 8). Πώς μπορεί να συμβάλει η Τεχνητή Νοημοσύνη στη μελέτη και την κατανόηση του αρχαίου κόσμου; [How Artificial Intelligence Can Contribute to the Study and Understanding the Ancient World]. Training session delivered at the <em>TALOS Summer School: Artificial Intelligence for the Social and Human Sciences 2025</em>, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">Link →</a>
+Tamiolaki, M., & <strong>Giannadakis, R.</strong> (2025, September 8). Πώς μπορεί να συμβάλει η Τεχνητή Νοημοσύνη στη μελέτη και την κατανόηση του αρχαίου κόσμου; [How Artificial Intelligence Can Contribute to the Study and Understanding of the Ancient World]. Training session delivered at the <em>TALOS Summer School: Artificial Intelligence for the Social and Human Sciences 2025</em>, University of Crete, Rethymno, Greece. <a class="entry-link" href="https://talos-ai4ssh.uoc.gr/training/summer-school-ai4ssh-2025/">Link →</a>
 </div>
 
 <div class="entry" markdown="1">
@@ -27,7 +27,7 @@ Papadopoulou, M., & <strong>Giannadakis, R.</strong> (2024, July 9 and 11). Foun
 </div>
 
 <div class="entry" markdown="1">
-<strong>Giannadakis, R.</strong> (2023, January 5). Supplementary teaching for <em>Introduction to Classical Philology</em> (4.5 hours). Course taught by Professor Lucia Athanassaki, University of Crete, Rethymno, Greece.
+Giannadakis, R. (2023, January 5). Supplementary teaching for <em>Introduction to Classical Philology</em> (4.5 hours). Course taught by Professor Lucia Athanassaki, University of Crete, Rethymno, Greece.
 </div>
 
 ## Teaching Assistance

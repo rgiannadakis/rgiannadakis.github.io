@@ -11,11 +11,11 @@ permalink: /publications/
 </div>
 
 <div class="entry" markdown="1">
-<strong>Giannadakis, R.</strong> (forthcoming). Towards a conceptualization of an archaic lyrical agora. In *TOTh 2025 – Terminology & Ontology: Theories and Applications Conference Proceedings*. Presses Universitaires Savoie Mont Blanc.
+Giannadakis, R. (forthcoming). Towards a conceptualization of an archaic lyrical agora. In *TOTh 2025 – Terminology & Ontology: Theories and Applications Conference Proceedings*. Presses Universitaires Savoie Mont Blanc.
 </div>
 
 <div class="entry" markdown="1">
-<strong>Giannadakis, R.</strong> (2026). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A Proposal for Teaching Ancient Greek Literature]. In *Η εκπαίδευση στην εποχή της ψηφιακής τεχνολογίας και της τεχνητής νοημοσύνης: Πρακτικά Συνεδρίου [Education in the Age of Digital Technology and Artificial Intelligence: Conference Proceedings]* (pp. 119–129). <a class="entry-link" href="https://www.academia.edu/177829062/">Academia.edu →</a>
+Giannadakis, R. (2026). Παρατηρώντας την ΠΤΝ: Μια πρόταση για τη διδασκαλία της αρχαίας ελληνικής λογοτεχνίας [Observing GenAI: A Proposal for Teaching Ancient Greek Literature]. In *Η εκπαίδευση στην εποχή της ψηφιακής τεχνολογίας και της τεχνητής νοημοσύνης: Πρακτικά Συνεδρίου [Education in the Age of Digital Technology and Artificial Intelligence: Conference Proceedings]* (pp. 119–129). <a class="entry-link" href="https://www.academia.edu/177829062/">Academia.edu →</a>
 </div>
 
 <div class="entry" markdown="1">
@@ -23,7 +23,7 @@ Samioti, P., & <strong>Giannadakis, R.</strong> (2026). CDL and critical creativ
 </div>
 
 <div class="entry" markdown="1">
-<strong>Giannadakis, R.</strong> (2025). Ontologies for Digital Humanities: An example of utilisation in the research and study of Classics. In *TOTh 2024 – Terminology & Ontology: Theories and Applications Conference Proceedings* (pp. 317–322). Presses Universitaires Savoie Mont Blanc. <a class="entry-link" href="https://toth.condillac.org/wp-content/uploads/2026/01/Livre_TOTh_2024.pdf">Link →</a>
+Giannadakis, R. (2025). Ontologies for Digital Humanities: An example of utilisation in the research and study of Classics. In *TOTh 2024 – Terminology & Ontology: Theories and Applications Conference Proceedings* (pp. 317–322). Presses Universitaires Savoie Mont Blanc. <a class="entry-link" href="https://toth.condillac.org/wp-content/uploads/2026/01/Livre_TOTh_2024.pdf">Link →</a>
 </div>
 
 <div class="entry" markdown="1">
