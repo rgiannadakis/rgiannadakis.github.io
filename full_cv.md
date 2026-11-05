@@ -13,7 +13,9 @@ permalink: /full-cv/
 <div class="plain-cv">
 
 <div class="cv-header">
+  {% comment %}
   <img class="avatar" src="/images/profile.png" alt="Rafail Giannadakis" onerror="this.style.display='none';">
+  {% endcomment %}
   <h1>Rafail Giannadakis</h1>
   <p class="contact-line">
     <a href="mailto:giannadakis.uni@gmail.com">giannadakis.uni@gmail.com</a> &middot;
