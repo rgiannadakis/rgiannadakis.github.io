@@ -13,9 +13,7 @@ permalink: /full-cv/
 <div class="plain-cv">
 
 <div class="cv-header">
-  {% comment %}
   <img class="avatar" src="/images/profile.png" alt="Rafail Giannadakis" onerror="this.style.display='none';">
-  {% endcomment %}
   <h1>Rafail Giannadakis</h1>
   <p class="contact-line">
     <a href="mailto:giannadakis.uni@gmail.com">giannadakis.uni@gmail.com</a> &middot;
@@ -29,12 +27,10 @@ permalink: /full-cv/
   </p>
 </div>
 
-{% comment %}
  <h2 class="cv-section">About</h2>
  <div class="prose">
  {{ about_page.content | markdownify }}
  </div>
- {% endcomment %}
 
 <hr class="cv-divider">
 <h2 class="cv-section">{{ cv_page.title }}</h2>
