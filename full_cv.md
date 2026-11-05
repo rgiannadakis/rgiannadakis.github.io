@@ -26,10 +26,12 @@ permalink: /full-cv/
   </p>
 </div>
 
-# <h2 class="cv-section">About</h2>
-# <div class="prose">
-# {{ about_page.content | markdownify }}
-# </div>
+{% comment %}
+ <h2 class="cv-section">About</h2>
+ <div class="prose">
+ {{ about_page.content | markdownify }}
+ </div>
+ {% comment %}
 
 <hr class="cv-divider">
 <h2 class="cv-section">{{ cv_page.title }}</h2>
