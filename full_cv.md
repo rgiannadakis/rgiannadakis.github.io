@@ -31,7 +31,7 @@ permalink: /full-cv/
  <div class="prose">
  {{ about_page.content | markdownify }}
  </div>
- {% end comment %}
+ {% endcomment %}
 
 <hr class="cv-divider">
 <h2 class="cv-section">{{ cv_page.title }}</h2>
