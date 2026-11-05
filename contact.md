@@ -5,6 +5,7 @@ full_name: Rafail Giannadakis
 pronouns: he/they
 photo: /images/profile.png
 email: giannadakis.uni@gmail.com
+ucsb: https://www.classics.ucsb.edu/student/rafail-giannadakis/
 academia: https://crete.academia.edu/RafailGiannadakis
 orcid: https://orcid.org/0009-0009-6708-4396
 github: https://github.com/rgiannadakis

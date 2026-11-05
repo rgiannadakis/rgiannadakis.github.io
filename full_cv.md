@@ -22,6 +22,7 @@ permalink: /full-cv/
     <a href="mailto:rgiannadakis@ucsb.edu">rgiannadakis@ucsb.edu</a>
     <br>
     <a href="https://rgiannadakis.github.io/">Personal Website</a> &middot;
+    <a href="https://www.classics.ucsb.edu/student/rafail-giannadakis/">UCSB Academic Profile</a> &middot;
     <a href="https://www.linkedin.com/in/rgiannadakis">LinkedIn</a> &middot;
     <a href="https://orcid.org/0009-0009-6708-4396">ORCID</a> &middot;
     <a href="https://crete.academia.edu/RafailGiannadakis">Academia.edu</a>
