@@ -1,4 +1,3 @@
-
 ---
 layout: base
 ---
@@ -12,6 +11,14 @@ layout: base
     <h1>{{ page.full_name }}<span class="pronoun">{{ page.pronouns }}</span></h1>
 
     <div class="social-row">
+      {% if page.ucsb %}
+      <a href="{{ page.ucsb }}" aria-label="UCSB Academic Profile" title="UCSB Academic Profile" target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 10h18M4 10V20M9 10V20M15 10V20M20 10V20M2 20h20M12 3 2 8h20L12 3z"/>
+        </svg>
+      </a>
+      {% endif %}
+
       {% if page.linkedin %}
       <a href="{{ page.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.94 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM3.3 8.75h3.28V21H3.3V8.75zm6.2 0h3.14v1.68h.05c.44-.83 1.5-1.7 3.1-1.7 3.32 0 3.93 2.18 3.93 5.02V21h-3.28v-5.66c0-1.35-.02-3.08-1.88-3.08-1.88 0-2.17 1.47-2.17 2.98V21H9.5V8.75z"/></svg>
@@ -27,14 +34,6 @@ layout: base
       {% if page.academia %}
       <a href="{{ page.academia }}" aria-label="Academia.edu" title="Academia.edu">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3 2 8l10 5 10-5-10-5z"/><path d="M6 10.5V16c0 1.5 2.7 3 6 3s6-1.5 6-3v-5.5"/></svg>
-      </a>
-      {% endif %}
-
-      {% if page.ucsb %}
-      <a href="{{ page.ucsb }}" aria-label="UCSB Academic Profile" title="UCSB Academic Profile" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M3 10h18M4 10V20M9 10V20M15 10V20M20 10V20M2 20h20M12 3 2 8h20L12 3z"/>
-        </svg>
       </a>
       {% endif %}
     </div>
